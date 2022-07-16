@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'pages', # app made by us using manage.py startapp pages
 ]
 
 MIDDLEWARE = [
